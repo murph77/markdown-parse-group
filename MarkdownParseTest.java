@@ -26,6 +26,7 @@ public class MarkdownParseTest {
         assertEquals(expectedLinks, listOfLinks);
     }
 
+    /*
     @Test
     public void testTest2File() throws IOException{
         String fileName = Files.readString(Path.of("/Users/steve/Documents/School Work/Spring 22/CSE 15L/Lab 3/Lab-3-4/test-file2.md"));
@@ -111,5 +112,6 @@ public class MarkdownParseTest {
 
         assertEquals(expectedLinks, listOfLinks);
     }
+    */
 }
 
